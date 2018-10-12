@@ -4,11 +4,11 @@
 
 Prediction of floods using LSTM Neural networks:
 
-Neural Networks are useful at situations, where we need to understand the nature of complicated hydrological system.
+     Neural Networks are useful in situations like these where we need to understand the nature of complicated hydrological systems.We will be basically predicting the parameters of a non-linear time series neural network model. 
 
       Long Short Term Memory networks(LSTMs) are a special kind of Recurrent Neural Networks, capable of learning long-term dependencies.
 
-      LSTMs are explicitly designed to avoid the long-term dependency problem. Remembering information for long periods of time is practically  their default behavior.
+      LSTMs are explicitly designed to avoid the long-term dependency problem. Remembering information for long periods of time is practically their default behavior.This is essential in case of flood prediction as any event like heavy deforestation happened a few years back might add up to a increased probability of a heavy flood now.
       
 
 Why LSTMs?
