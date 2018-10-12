@@ -1,6 +1,6 @@
 # codefundo++
 
-# floodPrediction
+# FloodPrediction
 
 # Prediction of floods using LSTM Neural networks:
 
@@ -52,7 +52,7 @@ Sources for data sets:
 
 4) http://sldckerala.com/index.php?id=7
 
-# floodPrevention
+# FloodPrevention
 
     * Notify the authorities and people about the possible rainfall pattern (heavy).
 
