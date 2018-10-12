@@ -61,5 +61,5 @@ Sources for data sets:
      
     * Plan cities(density) according to possible flood overflow.
 
-    * Routes to deviate the rain water,if the rain exceeds the water holding cpacity.
+    * Routes to deviate the rain water,if the rain exceeds the water holding capacity.
  
