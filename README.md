@@ -19,7 +19,7 @@ All recurrent neural networks have the form of a chain of repeating modules of n
 
 Looking into possible inputs that can be taken for training an LSTM model:
 
-Possible causes behind the Kerala floods-2018:
+Possible causes behind the Kerala floods - 2018:
 
     * Lots of Rain. There was an increase of 41.44% rainfall this season compared to the average rainfall in past years.
 
