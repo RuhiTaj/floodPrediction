@@ -17,7 +17,7 @@ But in practice, RNNs are not absolutely capable of handling “long-term depend
 
 All recurrent neural networks have the form of a chain of repeating modules of neural network. 
 
-Looking into possible inputs that can be taken for training an LSTM model:
+Looking into possible inputs that can be taken for training for a flood prediction LSTM model:
 
 Possible causes behind the Kerala floods - 2018:
 
