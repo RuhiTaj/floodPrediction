@@ -56,7 +56,7 @@ Sources for data sets:
 
     * Notify the authorities and people about the possible rainfall pattern (heavy).
 
-    * Mechanisms to tackle potential increment in levels of dams in surrounding dams.
+    * Mechanisms to tackle potential increment in levels of surrounding dams.
      
     * Plan cities(density) according to possible flood overflow.
 
